@@ -1,1 +1,42 @@
-/* Add your CSS code here */
+*{
+    font-family:Helvetica,Arial, Helvetica, sans-serif;
+    max-width: 700p;
+    margin:auto;
+}
+
+body{
+
+    min-width: 500px;
+    background-color: #e0eeee;
+}
+
+.profileBody {
+    display: inline-block;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 400px;
+    width: 50%;
+    height: 700px;
+    border-style: double; 
+    border-color:violet;
+    border-width: 2px;
+}
+.Contact {
+    
+    color:white;
+    background-color:black;
+}
+.Goals {
+    margin-top: 5px;
+    margin-left: 7px;
+}
+
+.Profile{
+    margin-top: 5px;
+    margin-left: 7px;
+}
+.Head{
+    
+    background-color: powderblue
+    ;
+}
