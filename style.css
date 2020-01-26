@@ -13,11 +13,11 @@ body{
 .profileBody {
     display: inline-block;
     background-color: white;
-    margin-top: 5px;
-    margin-left: 400px;
+    margin-top: 6px;
+    margin-left: 55px;
     width: 50%;
-    height: 700px;
-    border-style: double; 
+    height: 590px;
+     
     border-color:violet;
     border-width: 2px;
 }
